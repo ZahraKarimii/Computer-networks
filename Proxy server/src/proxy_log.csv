@@ -1,0 +1,5 @@
+Timestamp,Client_IP,Method,URL,Status
+2025-11-26 13:33:48,127.0.0.1,GET,http://example.com/,200
+2025-11-26 13:33:52,127.0.0.1,GET,http://example.com/,200 (cached)
+2025-11-26 13:34:03,127.0.0.1,GET,http://quera.org/,403
+2025-11-26 13:34:19,127.0.0.1,CONNECT,google.com:443,200
